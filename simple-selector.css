@@ -1,11 +1,8 @@
-#hoge{
-
-	color: red;
-
+@font-face {
+    font-family: 'tanuki';
+    src: url('TanukiMagic.ttf') format('truetype');
 }
-
-.hoge{
-
-	color: blue;
-
+#logo{
+    font-family:"tanuki";
+    font-size:40px;
 }
